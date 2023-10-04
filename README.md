@@ -34,6 +34,9 @@ Inflation Trends and Economic Insights (1960-2022)
 - **Economic Behaviors**: Based on clusters, can we identify economic behaviors or policies that are beneficial or harmful?
 - **Future Preparations**: Based on the forecast, how should countries prepare for future inflation trends?
 
+
+copy the Git URL and try running it.
+
 ---
 
 #### **7. Visualization Dashboard:**
